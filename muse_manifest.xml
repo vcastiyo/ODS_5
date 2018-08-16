@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ODS5.com" resolutions="1x" timestamp="1534452206492">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="334121120" ref="index"/>
+    <file name="index.css" crc="3972858267" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="imprimible-ods-5.pdf" crc="4082697908" seo="true" mt="1534451357000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="screen shot 2018-07-23 at 115245 am.jpg" crc="252326233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-572578x57.svg" crc="444931078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 572578x57_poster_.png" crc="3868339872" ref="index"/>
+    <file name="pasted-svg-612032x690.svg" crc="229848994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 612032x690_poster_.png" crc="293013986" ref="index"/>
+    <file name="pasted-svg-6293x58.svg" crc="4040657500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 6293x58_poster_.png" crc="4126588164" ref="index"/>
+    <file name="pasted-svg-612035x662.svg" crc="4101789461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 612035x662_poster_.png" crc="3853334522" ref="index"/>
+    <file name="screen shot 2018-07-23 at 115521 am.jpg" crc="394972592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4101059252" seo="true" mt="1534452182758" redirect="true"/>
+</manifest>

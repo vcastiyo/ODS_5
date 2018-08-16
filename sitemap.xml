@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ODS5.com/index.html</loc>
+    <lastmod>2018-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ODS5.com/images/screen%20shot%202018-07-23%20at%20115245%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ODS5.com/images/pasted-svg-572578x57.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ODS5.com/images/pasted-svg-612032x690.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ODS5.com/images/pasted-svg-6293x58.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ODS5.com/images/pasted-svg-612035x662.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ODS5.com/images/screen%20shot%202018-07-23%20at%20115521%20am.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ODS5.com/assets/imprimible-ods-5.pdf</loc>
+    <lastmod>2018-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
